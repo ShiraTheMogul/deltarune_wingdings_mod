@@ -70,3 +70,5 @@ If you want something supplemental, you could take an English sentences AnkiDroi
 # Misc. notes
 - The text uses a Wingdings font, not Wingdings Unicode; this isn't really an issue and more of a description. Changing every string into Wingdings and accomodating it would be way more trouble than it's worth and it's not how Tobyfox did it anyway.
 
+CREDITS
+- Determined_Memories - Fixing the chapter select
