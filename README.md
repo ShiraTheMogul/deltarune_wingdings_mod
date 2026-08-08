@@ -9,6 +9,29 @@ There are no secrets or anything here, just Wingdings. If someone wants to use t
 
 This was built with Deltarune v1.05, the latest build (as of 26th Feb 2026) that had a few tiny fixes in it relating to the Chapter Select. 
 
+# Version Correspondence
+## Mod v1.0.2
+Mod v1.0.2 was made after Chapter 5's post-release patch (v0.0.253). Y'know, Emergency IMAGE_FRIEND Aura Rescue Patch. That patch.
+
+Therefore, the patches are for...
+* Chapter Select: v23
+* Chapter 5: v0.0.253
+
+I think these are the Chapter 1-4 versions in that patch but there's no clear documentation so:
+* Chapter 1: v1.41
+* Chapter 2: v1.52
+* Chapter 3: v0.0.105
+* Chapter 4: v0.0.110
+Just as long as you got Chapter 5 at v0.0.253 everything should be ok.
+
+## Mod v1.0.1
+Mod v1.0.1 was made for the Steam Beta Branch 1.05. Therefore, the patches are for...
+* Chapter Select: v17
+* Chapter 1: v1.41
+* Chapter 2: v1.47
+* Chapter 3: v0.0.099
+* Chapter 4: 0.0.100
+
 # Installation
 This mod uses xdelta patches.
 - Go to `C:\Program Files (x86)\Steam\steamapps\common\DELTARUNE` (or wherever you installed DELTARUNE) and back up everything in there. Alternatively, back it up in Steam's interface. Do this to ensure your modding spree is reversible.
