@@ -7,8 +7,6 @@ Thank you to the [DELTAModders Discord](https://discord.gg/3f2SR39D3M) for guidi
 
 There are no secrets or anything here, just Wingdings. If someone wants to use this for something bigger, be my guest though. 
 
-This was built with Deltarune v1.05, the latest build (as of 26th Feb 2026) that had a few tiny fixes in it relating to the Chapter Select. 
-
 # Version Correspondence
 ## Mod v1.0.2
 Mod v1.0.2 was made after Chapter 5's post-release patch (v0.0.253). Y'know, Emergency IMAGE_FRIEND Aura Rescue Patch. That patch.
