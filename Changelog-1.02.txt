@@ -1,0 +1,10 @@
+Changelog
+- All patches have been remade to account for bug fixes that have been released since the original Wingdings mod was made, which made the patches not pass checksums.
+- I set the font size to 10 so text would display a little cleaner in textboxes. 
+- Just in case, the v1.01 files were put into their own subfolders. Only use those files for pre-Chapter 5 release Deltarune!
+
+Notes
+- Patches were made against the latest versions of the game. To make sure they're the absolute latest, I deliberately deleted the data.win files so Steam would redownload them on launch.
+- Given the above, I'm glad I waited for the post-release patch and confirmation Toby Fox's team are focusing on Chapter 6, as I would have had to do this all again if I immediately went and did it!
+- The old method I used for making this mod still works, so I expect Chapter 6 and 7 will be done the same way. 
+- I am exploring the idea of an uppercase patch as well, but haven't done it yet. I may do it at a later date, I may not. It has an easy export/import, anyway, if anyone wants to try it. 
